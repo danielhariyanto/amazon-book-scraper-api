@@ -1,4 +1,4 @@
-# Amazon Scraper API
+# Amazon Book Scraper API
 
 This API bypasses Amazon's bot detection to return scrapable HTML code for book products
 
